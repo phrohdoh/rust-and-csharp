@@ -1,0 +1,9 @@
+[package]
+name = "csharp-interop-test"
+version = "0.1.0"
+authors = ["Taryn Hill <taryn@phrohdoh.com>"]
+
+[lib]
+name = "csharp_interop_test"
+path = "src/lib.rs"
+crate-type = ["dylib"]

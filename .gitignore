@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.dylib
+*.so
+*.mdb
+*.pdb
+
+obj/
+bin/
